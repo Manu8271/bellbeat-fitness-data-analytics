@@ -1,11 +1,4 @@
----
-title: "Bellabeat Analysis R Notebook"
-Author: Scott Esguerra
-Date: "2023-02-07"
-output:
-  html_document:
-    df_print: paged
----
+
 
 # Data Cleaning
 
