@@ -12,6 +12,6 @@ Welcome to the Bellbeat analysis case study! In this study, I performed an examp
 ### TOOLS
 
 - R
-- Tableau
+
 
 
